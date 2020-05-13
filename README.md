@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="c.png" width="50px"></img>
+  <img src="c.png" width="70px"></img>
   <h1>Everyday one code in C </h1>
 </div>
 
