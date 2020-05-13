@@ -1,4 +1,6 @@
-# Everyday one code in C 
+<div align="center">
+<h1>Everyday one code in C </h1>
+</div>
 
 - May
   - 13
