@@ -1,5 +1,6 @@
 <div align="center">
-<h1>Everyday one code in C </h1>
+  <img src="c.png"></img>
+  <h1>Everyday one code in C </h1>
 </div>
 
 - May
