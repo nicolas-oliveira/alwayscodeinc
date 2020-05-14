@@ -9,3 +9,4 @@ C é uma das liguagens aciãs no mundo da tecnologia, os sistemas operacionais s
   - 13
     - Retangle (Uma string ou texto que é preechida por um quadrado)
     - Pomodoro (Contador pomodoro com intervalos)
+    - Inverter String
