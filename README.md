@@ -9,10 +9,13 @@ C é uma das liguagens aciãs no mundo da tecnologia, os sistemas operacionais s
 ### Maio
   - 29
     - [Sort Simple](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio/29052020_sort_simple.c)
+<<<<<<< HEAD
   - 15
     - [Ponteiros comparando endereços entre tipos](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio/15052020_ponteiros1%20copy.c)
     - [Ponteiros maior endereço](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio/15052020_ponteiros2.c)
     - [Ponteiros comparando o maior endereço](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio/15052020_ponteiros3.c)
+=======
+>>>>>>> db3c8097ce4a07cb4b18883689ad9bef2c3aa4a2
   - 14
     - [Inverter String](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio/14052020_inverter_string.c)
     - [Recursividade Fatorial](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio/14052020_recursividade_fatorial.c)
