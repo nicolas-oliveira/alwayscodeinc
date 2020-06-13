@@ -6,11 +6,11 @@
 
 ## Motivo:
 C é uma das liguagens aciãs no mundo da tecnologia, os sistemas operacionais se baseiam nela e todo e qualquer linguagem que se preze tem alguma inspiração em sua sintaxe. Porém, além disso a sua maior beleza não está na sua sintaxe e sim na rigorosidade, é impossível escrever algoritmos em C sem ter algum aprendizado no final. Aprender estruturas de dados é uma das fundamentações mais requisitadas no mercado e por isso todo os dias vou trazer várias ideias em C, que são desafiadoras, porém, interessantes.
-### Junho
+### Semana 2
   - 12
     - [Array of strings](https://github.com/nicolas-oliveira/ceveryday/blob/master/Junho/12062020_arrOfString.c)
 
-### Maio
+### Semana 1
   - 29
     - [Sort Simple](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio/29052020_sort_simple.c)
   - 15
