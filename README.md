@@ -18,7 +18,11 @@ Learning data structures is one of the most requested foundations in the market 
 
 ## Alocação Dinâmica
   - [Alocação dinâmica simples](https://github.com/nicolas-oliveira/ceveryday/blob/master/Junho_2020/09062020_allocDin.c)
+  
 ## Lists
+  - [Lista Definição](https://github.com/nicolas-oliveira/ceveryday/blob/master/Agosto_2020/11082020_lista_definicao.c)
+  - [Ponto e TAD](https://github.com/nicolas-oliveira/ceveryday/blob/master/Agosto_2020/12082020_ponto.c)
+  - [Lista Sequencial Estática](https://github.com/nicolas-oliveira/ceveryday/blob/master/Agosto_2020/13082020_lista_sequencial_estatica.c)
 
 ## Strings
   - [Inverter String](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio_2020/14052020_inverter_string.c)
@@ -34,6 +38,7 @@ Learning data structures is one of the most requested foundations in the market 
   - [Recursividade Fatorial](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio_2020/14052020_recursividade_fatorial.c)
   - [Recursividade Soma dos cubos](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio_2020/14052020_recursividade_soma_dos_cubos.c)
   - [Recursividade Somatória](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio_2020/14052020_recursividade_somatoria.c)
+  
 ## Outros
   - [Retangle (Uma string ou texto que é preechida por um quadrado)](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio_2020/14052020_inverter_string.c)
   - [Pomodoro (Contador pomodoro com intervalos)](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio_2020/13052020_cronometro_pomodoro.c)
