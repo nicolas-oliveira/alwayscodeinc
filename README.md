@@ -30,7 +30,8 @@ Learning data structures is one of the most requested foundations in the market 
   - [Estrutura simples com Alocação e ponteiros](https://github.com/nicolas-oliveira/ceveryday/blob/master/Setembro_2020/09092020_Estrutura2_malloc_ponteiro.c)
   - [Lista Sequencial Estática](https://github.com/nicolas-oliveira/ceveryday/blob/master/Agosto_2020/13082020_lista_sequencial_estatica.c)
   - [Lista Linear Sequencial Estática 2](https://github.com/nicolas-oliveira/ceveryday/blob/master/Setembro_2020/09092020_Estrutura3_lista_linear_sequencial.c)
-
+  - [Lista Ligada com Estrutura Estática](https://github.com/nicolas-oliveira/ceveryday/blob/master/Setembro_2020/09092020_Estrutura4_Lista_ligada_de_estrutura_estatica.c)
+  
 ## Ordenação
   - [Sort Simple](https://github.com/nicolas-oliveira/ceveryday/blob/master/Maio_2020/29052020_sort_simple.c)
   
