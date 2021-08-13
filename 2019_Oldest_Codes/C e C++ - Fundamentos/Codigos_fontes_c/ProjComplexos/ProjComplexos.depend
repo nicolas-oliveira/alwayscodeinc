@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1355342977 source:c:\users\madrox\desktop\exercicios\projcomplexos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Complexos.h"
+
+1355334457 c:\users\madrox\desktop\exercicios\projcomplexos\complexos.h
+
+1355336691 source:c:\users\madrox\desktop\exercicios\projcomplexos\complexos.c
+	<math.h>
+	<stdlib.h>
+	"Complexos.h"
+
+1355342978 source:d:\aulas ufu\aulas prontas\estrutura de dados 1\projcomplexos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Complexos.h"
+
+1355334458 d:\aulas ufu\aulas prontas\estrutura de dados 1\projcomplexos\complexos.h
+
