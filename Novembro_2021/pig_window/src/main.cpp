@@ -1,33 +1,27 @@
 #include "PIG.h"
+#include <thread>
+#include <chrono>
 
 int main( int argc, char* args[] ){
-
-    //criando o jogo (aplica��o)
+    char String[1000];
+    // criando o jogo (aplicativo)
 
     CriarJanela("Meu Jogo", 0);
 
-    //associando o teclado (basta uma �nica vez) com a vari�vel meuTeclado
-    // meuTeclado = GetTeclado();
-
-    //loop principal do jogo
-    while(PIG_JogoRodando == 1){
-
-        //pega um evento que tenha ocorrido desde a �ltima passada do loop
-        // evento = GetEvento();
-
-        //aqui o evento deve ser tratado e tudo deve ser atualizado
-
-        //ser� feita a prepara��o do frame que ser� exibido na tela
+    // loop principal do jogo
+    while(PIG_JogoRodando == 1) {
+        //sera feita a preparacao do frame que sera exibido na tela
         IniciarDesenho();
 
         //todas as chamadas de desenho devem ser feitas aqui na ordem desejada
+        DesenharRetangulo(0,0,ALT_TELA,LARG_TELA, BRANCO);
 
-        //o frame totalmente pronto ser� mostrado na tela
+        //o frame totalmente pronto sera mostrado na tela
         EncerrarDesenho();
     }
 
-    //o jogo ser� encerrado
-    FinalizarJanela();
+    //o jogo sera encerrado
+
 
     return 0;
 }
