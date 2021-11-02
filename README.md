@@ -30,9 +30,9 @@ Learning data structures, pointers and memory is one of the most requested found
 
 ## Listas
 
-- [Lista Definição](./2020/08_Agosto_2020/11082020_lista_definicao.c)
+- [Lista Definição](./2020/08_Agosto/11082020_lista_definicao.c)
 - [Ponto e TAD](./2020/08_Agosto/12082020_ponto.c)
-- [Lista Sequencial Estática](./2020/08_Agosto_2020/13082020_lista_sequencial_estatica.c)
+- [Lista Sequencial Estática](./2020/08_Agosto/13082020_lista_sequencial_estatica.c)
 - [Estrutura Simples com Struct](./2020/09_Setembro/09092020_Estrutura1_simples_com_struct.c)
 - [Estrutura simples com Alocação e ponteiros](./2020/09_Setembro/09092020_Estrutura2_malloc_ponteiro.c)
 - [Lista Linear Sequencial Estática 2](./2020/09_Setembro/09092020_Estrutura3_lista_linear_sequencial.c)
