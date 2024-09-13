@@ -59,6 +59,10 @@ Learning data structures, pointers and memory is one of the most requested found
 
 - [Inverter String](./2020/05_Maio/14052020_inverter_string.c)
 
+## Multiplicação de matrizes
+
+- [Cubo em 3d no terminal](./2024/cube/cube.c)
+
 ## Graphic
 
 - [Xlib Hello World Window](./2021/11_Novembro/window_in_c/index.c)
@@ -69,6 +73,9 @@ Learning data structures, pointers and memory is one of the most requested found
 ## Outros
 
 - [Retangle (Uma string ou texto que é preechida por um quadrado)](./2020/05_Maio/14052020_inverter_string.c)
+
 - [Pomodoro (Contador pomodoro com intervalos)](./2020/05_Maio/13052020_cronometro_pomodoro.c)
+
 - [FizzBuzz Algorithm 1](./2020/06_Junho/12062020_fizzbuzz.c)
+
 - [FizzBuzz Algorithm 2](./2020/06_Junho/12062020_fizzbuzz2.c)
