@@ -5,8 +5,7 @@
 #include <unistd.h>
 #else
 #include <windows.h>
-void usleep(__int64 usec)
-{
+void usleep(__int64 usec) {
   HANDLE timer;
   LARGE_INTEGER ft;
 
@@ -85,13 +84,13 @@ int main() {
     horizontalOffset = -2 * cubeWidth;
     for (float cubeX = -cubeWidth; cubeX < cubeWidth; cubeX += incrementSpeed) {
       for (float cubeY = -cubeWidth; cubeY < cubeWidth; cubeY += incrementSpeed) {
-        	calculateForSurface(cubeX, cubeY, -cubeWidth, '@');
-        	calculateForSurface(cubeWidth, cubeY, cubeX, '$');
-        	calculateForSurface(-cubeWidth, cubeY, -cubeX, '~');
-        	calculateForSurface(-cubeX, cubeY, cubeWidth, '#');
-        	calculateForSurface(cubeX, -cubeWidth, -cubeY, ';');
-        	calculateForSurface(cubeX, cubeWidth, cubeY, '+');
-      	}
+        calculateForSurface(cubeX, cubeY, -cubeWidth, '@');
+        calculateForSurface(cubeWidth, cubeY, cubeX, '$');
+        alculateForSurface(-cubeWidth, cubeY, -cubeX, '~');
+        calculateForSurface(-cubeX, cubeY, cubeWidth, '#');
+        calculateForSurface(cubeX, -cubeWidth, -cubeY, ';');
+        calculateForSurface(cubeX, cubeWidth, cubeY, '+');
+      }
     }
     printf("\x1b[H");
     for (int k = 0; k < width * height; k++) {
